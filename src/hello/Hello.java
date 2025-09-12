@@ -3,6 +3,6 @@ public class Hello {
 public static void main(String[] args) {
 System.out.println("Hello from Pipeline CI!");
 System.out.println("Hello from ngirok!");
-System.out.println("Hello from it-1!");
+System.out.println("Hello from ngok agent!");
 }
 }
